@@ -1,0 +1,11 @@
+simbolo;nome;atomico;linha;coluna;estado
+Hg;Mercurio;80;6;12;l
+H;Hidrogenio;1;1;1;g
+Li;Litio;3;1;2;s
+Ca;Calcio;20;4;2;s
+Ru;Rutenio;44;8;5;s
+Zn;Zinco;30;12;4;s
+Hf;Hafnio;72;4;6;s
+C;Carbono;6;14;2;s
+Cl;Cloro;17;17;3;g
+As;Arsenio;33;15;4;s
